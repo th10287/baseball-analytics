@@ -1,0 +1,24 @@
+https://www.mlb.com/video/search?q=GameType+%3D+%5B%22REGULAR_SEASON%22%5D+AND+RunnerOnBase+%3D%3D+%5B3%5D+AND+Outs+%3D+%5B2%5D+AND+HitResult+%3D+%5B%22Out%22%2C%22Strikeout%22%5D+AND+Season+%3D+%5B2021%5D+AND+BattingTeamId+%3D+%5B144%5D+Order+By+Timestamp+DESC
+•	Braves batting
+•	2021 Regular Season
+•	Baserunner on 3rd
+•	2 Outs
+•	Hitting Outcomes: Out, Strikeout
+
+Example 1: Bottom of the 9th. Win 
+https://www.mlb.com/video/josh-osich-in-play-out-s-to-freddie-freeman?q=GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20AND%20RunnerOnBase%20%3D%3D%20%5B3%5D%20AND%20Outs%20%3D%20%5B2%5D%20AND%20HitResult%20%3D%20%5B%22Out%22%2C%22Strikeout%22%5D%20AND%20Season%20%3D%20%5B2021%5D%20AND%20BattingTeamId%20%3D%20%5B144%5D%20AND%20Inning%20%3D%20%5B9%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0
+
+Example 2: Bottom of 9th. Chance to win, lost in the 10th 
+https://www.mlb.com/video/dansby-swanson-pops-out-to-shortstop-ronald-torreyes-899e38?q=GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20AND%20RunnerOnBase%20%3D%3D%20%5B3%5D%20AND%20Outs%20%3D%20%5B2%5D%20AND%20HitResult%20%3D%20%5B%22Out%22%2C%22Strikeout%22%5D%20AND%20Season%20%3D%20%5B2021%5D%20AND%20BattingTeamId%20%3D%20%5B144%5D%20AND%20Inning%20%3D%20%5B9%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0
+
+
+•	Baserunner on 3rd
+•	2 outs
+•	Bases Loaded
+
+Example 1: Bottom of 9th. Ended up losing in 10th 
+https://www.mlb.com/video/yimi-garcia-in-play-out-s-to-ozzie-albies?q=GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20AND%20RunnerOnBase%20%3D%3D%20%5B3%2C2%2C1%5D%20AND%20Outs%20%3D%20%5B2%5D%20AND%20HitResult%20%3D%20%5B%22Out%22%2C%22Strikeout%22%5D%20AND%20Season%20%3D%20%5B2021%5D%20AND%20BattingTeamId%20%3D%20%5B144%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0
+
+Example 2: Bottom of 10th. Ended up winning in 12th
+https://www.mlb.com/video/cristian-pache-strikes-out-swinging-xht1bi?q=GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20AND%20RunnerOnBase%20%3D%3D%20%5B3%2C2%2C1%5D%20AND%20Outs%20%3D%20%5B2%5D%20AND%20HitResult%20%3D%20%5B%22Out%22%2C%22Strikeout%22%5D%20AND%20Season%20%3D%20%5B2021%5D%20AND%20BattingTeamId%20%3D%20%5B144%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0
+
